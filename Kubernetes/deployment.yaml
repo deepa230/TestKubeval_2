@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Deployment
+kind: 
 metadata:
   creationTimestamp: "2020-03-21T10:01:15Z"
   generation: 1
